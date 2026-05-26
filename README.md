@@ -1,16 +1,23 @@
-## Hi there 👋
+# Greg Lichtenthal
 
-<!--
-**glichtenthal/glichtenthal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Claude skills and AI tools -- practical things for people 
+doing real work with AI.
 
-Here are some ideas to get you started:
+20+ years driving enterprise revenue and GTM strategy at Google, Meta, and 
+Twitter. Heavy AI user long before it was a job requirement. 
+Now building in the open.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's here
+
+**[ground-truth](https://github.com/glichtenthal/ground-truth)** — 
+A Claude skill for calibrated honesty. Enforces anti-sycophancy rules 
+so Claude tells you what's actually true, not what's easiest to say.
+
+**[the-quorum](https://github.com/glichtenthal/the-quorum)** — 
+A five-member expert council that pressure-tests decisions. Each member 
+reasons independently, challenges the others, and a chairman synthesizes 
+a recommendation.
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/greglichtenthal)

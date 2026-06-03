@@ -1,11 +1,12 @@
 # Greg Lichtenthal
 
-I build portable agent skills and AI tools -- practical things for people
-doing real work with AI. The skills below support Claude and Codex.
+I build portable agent skills and AI tools -- practical things for people doing real work with AI. The skills below support Claude and Codex.
 
 20+ years driving enterprise revenue and GTM strategy at Google, Meta, and 
 Twitter. Heavy AI user long before it was a job requirement. 
 Now building in the open.
+
+**Catalog:** [Agent Skills by Greg Lichtenthal](https://github.com/glichtenthal/agent-skills)
 
 ## What's here
 

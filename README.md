@@ -6,7 +6,7 @@ I build portable agent skills and AI tools -- practical things for people doing 
 Twitter. Heavy AI user long before it was a job requirement. 
 Now building in the open.
 
-**Catalog:** [Agent Skills by Greg Lichtenthal](https://github.com/glichtenthal/agent-skills)
+**Catalog:** [Agent Skills by Greg Lichtenthal](https://glichtenthal.github.io/agent-skills/)
 
 These are portable behavioral systems for agents, not one-off prompts. Each skill includes installation instructions, Codex metadata, release assets, and lightweight evals.
 
@@ -14,7 +14,7 @@ These are portable behavioral systems for agents, not one-off prompts. Each skil
 
 - [Download Ground Truth](https://github.com/glichtenthal/ground-truth/releases/download/v1.0/ground-truth.skill)
 - [Download The Quorum](https://github.com/glichtenthal/the-quorum/releases/download/v1.0/the-quorum.skill)
-- [Browse the full catalog](https://github.com/glichtenthal/agent-skills)
+- [Browse the full catalog](https://glichtenthal.github.io/agent-skills/)
 
 ## What's here
 

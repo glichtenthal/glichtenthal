@@ -1,12 +1,12 @@
 # Greg Lichtenthal
 
-I build portable agent skills and AI tools -- practical things for people doing real work with AI. The skills below support Claude and Codex.
+I build judgment infrastructure for human-led AI: portable agent skills that help people organize messy context, pressure-test thinking, and deliberate consequential decisions with AI as a thought partner.
 
 20+ years driving enterprise revenue and GTM strategy at Google, Meta, and 
 Twitter. Heavy AI user long before it was a job requirement. 
 Now building in the open.
 
-**Catalog:** [Agent Skills by Greg Lichtenthal](https://glichtenthal.github.io/agent-skills/)
+**Catalog:** [Judgment Infrastructure for Human-Led AI](https://glichtenthal.github.io/agent-skills/)
 
 These are portable behavioral systems for agents, not one-off prompts. The bundle is focused on judgment infrastructure for human-led AI work: organize messy context, pressure-test the thinking, and deliberate consequential decisions.
 

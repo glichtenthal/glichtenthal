@@ -7,10 +7,19 @@ Twitter. Heavy AI user long before it was a job requirement.
 Now building in the open.
 
 **Catalog:** [Judgment Infrastructure for Human-Led AI](https://glichtenthal.github.io/agent-skills/)
+**Thesis:** [Why judgment infrastructure matters](https://glichtenthal.github.io/agent-skills/manifesto/)
 
 These are portable behavioral systems for agents, not one-off prompts. The bundle is focused on judgment infrastructure for human-led AI work: organize messy context, pressure-test the thinking, and deliberate consequential decisions.
 
 Each skill includes installation instructions, Codex metadata, release assets, and lightweight evals.
+
+## Start here
+
+| If you have... | Use... |
+| --- | --- |
+| Messy notes, transcripts, research, or context | [The Briefing Room](https://github.com/glichtenthal/briefing-room) |
+| A claim, plan, draft, or idea that needs honest critique | [Ground Truth](https://github.com/glichtenthal/ground-truth) |
+| A consequential decision with real trade-offs | [The Quorum](https://github.com/glichtenthal/the-quorum) |
 
 ## Install
 

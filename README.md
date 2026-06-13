@@ -27,7 +27,7 @@ Each skill includes installation instructions, Codex metadata, release assets, a
 - [Download The Briefing Room](https://github.com/glichtenthal/briefing-room/releases/download/v1.0/briefing-room.skill)
 - [Download Ground Truth](https://github.com/glichtenthal/ground-truth/releases/download/v1.0/ground-truth.skill)
 - [Download The Quorum](https://github.com/glichtenthal/the-quorum/releases/download/v1.0/the-quorum.skill)
-- [Download Test Drive](https://github.com/glichtenthal/test-drive/releases/download/v1.2/test-drive.skill)
+- [Download Test Drive](https://github.com/glichtenthal/test-drive/releases/download/v1.3/test-drive.skill)
 - [Browse the full catalog](https://glichtenthal.github.io/agent-skills/)
 
 ## What's here

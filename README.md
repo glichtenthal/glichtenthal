@@ -6,14 +6,10 @@ I build judgment infrastructure for human-led AI: portable agent skills that hel
 Twitter. Heavy AI user long before it was a job requirement. 
 Now building in the open.
 
-**Catalog:** [Judgment Infrastructure for Human-Led AI](https://glichtenthal.github.io/agent-skills/)
-**Start here:** [Guided judgment workflow](https://glichtenthal.github.io/agent-skills/start-here/)
-**Demo:** [One scenario across all four skills](https://glichtenthal.github.io/agent-skills/demo/)
-**Thesis:** [Why judgment infrastructure matters](https://glichtenthal.github.io/agent-skills/manifesto/)
+**Explore the catalog:** [Judgment Infrastructure for Human-Led AI](https://glichtenthal.github.io/agent-skills/)  
+**Start with the workflow:** [Guided judgment workflow](https://glichtenthal.github.io/agent-skills/start-here/)
 
 These are portable behavioral systems for agents, not one-off prompts. The bundle is focused on judgment infrastructure for human-led AI work: organize messy context, pressure-test the thinking, deliberate consequential decisions, and turn ideas, claims, and decisions into evidence-seeking action.
-
-Each skill includes installation instructions, Codex metadata, release assets, and lightweight evals.
 
 ## Start here
 
@@ -24,11 +20,15 @@ Each skill includes installation instructions, Codex metadata, release assets, a
 | A consequential decision with real trade-offs | [The Quorum](https://github.com/glichtenthal/the-quorum) |
 | An idea, claim, or decision that needs a small test before commitment | [Test Drive](https://github.com/glichtenthal/test-drive) |
 
+## Learn more
+
+- [One scenario across all four skills](https://glichtenthal.github.io/agent-skills/demo/)
+- [Why judgment infrastructure matters](https://glichtenthal.github.io/agent-skills/manifesto/)
+
 ## Try the loop
 
-Start with the guided workflow, then run one quick demo:
+Run one quick demo:
 
-- [Guided workflow](https://glichtenthal.github.io/agent-skills/start-here/)
 - [Briefing Room quick demo](https://github.com/glichtenthal/briefing-room/blob/main/examples/quick-demo.md)
 - [Ground Truth quick demo](https://github.com/glichtenthal/ground-truth/blob/main/examples/quick-demo.md)
 - [The Quorum quick demo](https://github.com/glichtenthal/the-quorum/blob/main/examples/quick-demo.md)

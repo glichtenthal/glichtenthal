@@ -7,6 +7,8 @@ Twitter. Heavy AI user long before it was a job requirement.
 Now building in the open.
 
 **Catalog:** [Judgment Infrastructure for Human-Led AI](https://glichtenthal.github.io/agent-skills/)
+**Start here:** [Guided judgment workflow](https://glichtenthal.github.io/agent-skills/start-here/)
+**Demo:** [One scenario across all four skills](https://glichtenthal.github.io/agent-skills/demo/)
 **Thesis:** [Why judgment infrastructure matters](https://glichtenthal.github.io/agent-skills/manifesto/)
 
 These are portable behavioral systems for agents, not one-off prompts. The bundle is focused on judgment infrastructure for human-led AI work: organize messy context, pressure-test the thinking, deliberate consequential decisions, and turn ideas, claims, and decisions into evidence-seeking action.
@@ -22,12 +24,22 @@ Each skill includes installation instructions, Codex metadata, release assets, a
 | A consequential decision with real trade-offs | [The Quorum](https://github.com/glichtenthal/the-quorum) |
 | An idea, claim, or decision that needs a small test before commitment | [Test Drive](https://github.com/glichtenthal/test-drive) |
 
+## Try the loop
+
+Start with the guided workflow, then run one quick demo:
+
+- [Guided workflow](https://glichtenthal.github.io/agent-skills/start-here/)
+- [Briefing Room quick demo](https://github.com/glichtenthal/briefing-room/blob/main/examples/quick-demo.md)
+- [Ground Truth quick demo](https://github.com/glichtenthal/ground-truth/blob/main/examples/quick-demo.md)
+- [The Quorum quick demo](https://github.com/glichtenthal/the-quorum/blob/main/examples/quick-demo.md)
+- [Test Drive quick demo](https://github.com/glichtenthal/test-drive/blob/main/examples/quick-demo.md)
+
 ## Install
 
-- [Download The Briefing Room](https://github.com/glichtenthal/briefing-room/releases/download/v1.0/briefing-room.skill)
-- [Download Ground Truth](https://github.com/glichtenthal/ground-truth/releases/download/v1.0/ground-truth.skill)
-- [Download The Quorum](https://github.com/glichtenthal/the-quorum/releases/download/v1.0/the-quorum.skill)
-- [Download Test Drive](https://github.com/glichtenthal/test-drive/releases/download/v1.3/test-drive.skill)
+- [Download The Briefing Room](https://github.com/glichtenthal/briefing-room/releases/download/v1.1/briefing-room.skill)
+- [Download Ground Truth](https://github.com/glichtenthal/ground-truth/releases/download/v1.1/ground-truth.skill)
+- [Download The Quorum](https://github.com/glichtenthal/the-quorum/releases/download/v1.1/the-quorum.skill)
+- [Download Test Drive](https://github.com/glichtenthal/test-drive/releases/download/v1.4/test-drive.skill)
 - [Browse the full catalog](https://glichtenthal.github.io/agent-skills/)
 
 ## What's here

@@ -23,6 +23,8 @@ These are portable behavioral systems for agents, not one-off prompts. The bundl
 ## Learn more
 
 - [One scenario across all four skills](https://glichtenthal.github.io/agent-skills/demo/)
+- [Practical use cases](https://glichtenthal.github.io/agent-skills/use-cases/)
+- [Awesome Judgment Infrastructure](https://github.com/glichtenthal/awesome-judgment-infrastructure)
 - [Why judgment infrastructure matters](https://glichtenthal.github.io/agent-skills/manifesto/)
 
 ## Try the loop

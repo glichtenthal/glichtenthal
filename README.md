@@ -1,5 +1,7 @@
 # Greg Lichtenthal
 
+**AI Skills & Judgment Infrastructure | ex-Google, Meta, Twitter**
+
 I build judgment infrastructure for human-led AI: portable agent skills that help people organize messy context, pressure-test thinking, deliberate consequential decisions, and test ideas before trusting them.
 
 20+ years driving enterprise revenue and GTM strategy at Google, Meta, and 
@@ -69,4 +71,4 @@ installation instructions.
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/greglichtenthal)
+[LinkedIn](https://www.linkedin.com/in/greglichtenthal/)

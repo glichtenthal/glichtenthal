@@ -1,6 +1,6 @@
 # Greg Lichtenthal
 
-I build judgment infrastructure for human-led AI: portable agent skills that help people organize messy context, pressure-test thinking, deliberate consequential decisions, and test ideas before trusting them.
+I build judgment infrastructure for human-led AI: tools and workflows that help people organize messy context, improve perspective, pressure-test thinking, and make better decisions.
 
 20+ years driving enterprise revenue and GTM strategy at Google, Meta, and 
 Twitter. Heavy AI user long before it was a job requirement. 
@@ -9,7 +9,7 @@ Now building in the open.
 **Explore the catalog:** [Judgment Infrastructure for Human-Led AI](https://glichtenthal.github.io/agent-skills/)  
 **Start with the workflow:** [Guided judgment workflow](https://glichtenthal.github.io/agent-skills/start-here/)
 
-These are portable behavioral systems for agents, not one-off prompts. The bundle is focused on judgment infrastructure for human-led AI work: organize messy context, pressure-test the thinking, deliberate consequential decisions, and turn ideas, claims, and decisions into evidence-seeking action.
+These are portable behavioral systems for agents, not one-off prompts. The core skill bundle is focused on judgment infrastructure for human-led AI work: organize messy context, pressure-test the thinking, deliberate consequential decisions, and turn ideas, claims, and decisions into evidence-seeking action.
 
 ## Start here
 
@@ -33,8 +33,8 @@ These are portable behavioral systems for agents, not one-off prompts. The bundl
 A custom GPT for recruiter-style coaching across media, technology,
 ad-tech, and AI business-side roles.
 It applies the same judgment-first pattern to job search: sharpen the
-positioning, pressure-test the materials, prepare for consequential
-conversations, and evaluate trade-offs before acting.
+positioning, pressure-test the materials, add recruiter perspective,
+prepare for consequential conversations, and evaluate trade-offs before acting.
 
 - [Repository](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt)
 
@@ -57,20 +57,20 @@ Run one quick demo:
 
 ## What's here
 
-**[briefing-room](https://github.com/glichtenthal/briefing-room)** —
+**[briefing-room](https://github.com/glichtenthal/briefing-room)**:
 Turns messy context into a structured brief a human can think with.
 It separates facts, claims, assumptions, tensions, open questions, and next use.
 
-**[ground-truth](https://github.com/glichtenthal/ground-truth)** —
+**[ground-truth](https://github.com/glichtenthal/ground-truth)**:
 Calibrated honesty and anti-sycophancy for plans, reviews, and decisions.
 It challenges the premise before validating the answer.
 
-**[the-quorum](https://github.com/glichtenthal/the-quorum)** —
+**[the-quorum](https://github.com/glichtenthal/the-quorum)**:
 A five-member expert council that pressure-tests consequential decisions.
 Each member reasons independently, challenges the others, and a chairman
 synthesizes a recommendation with a pre-mortem.
 
-**[test-drive](https://github.com/glichtenthal/test-drive)** —
+**[test-drive](https://github.com/glichtenthal/test-drive)**:
 An evidence-design skill that helps people test an idea, claim, or decision before trusting it.
 It identifies the evidence type, smallest credible test, needed artifact,
 connector path, approval gate, and learning loop.

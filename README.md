@@ -27,7 +27,7 @@ These are portable behavioral systems for agents, not one-off prompts. The bundl
 - [Awesome Judgment Infrastructure](https://github.com/glichtenthal/awesome-judgment-infrastructure)
 - [Why judgment infrastructure matters](https://glichtenthal.github.io/agent-skills/manifesto/)
 
-## Applied GPTs
+## Applied Judgment Systems
 
 **[Media, Tech & AI Executive Recruiter GPT](https://chatgpt.com/g/g-69c612c858188191a9d6d98fddd5b5b6-media-tech-ai-executive-recruiter)**:
 A custom GPT for recruiter-style coaching across media, technology,

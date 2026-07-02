@@ -1,10 +1,15 @@
 # Greg Lichtenthal
 
-I build judgment infrastructure for human-led AI: tools and workflows that help people organize messy context, improve perspective, pressure-test thinking, and make better decisions.
+I build judgment infrastructure for human-led AI: tools and workflows that help people turn complex and unstructured context into clearer thinking, better perspective, stronger decisions, and evidence-seeking action.
 
 20+ years driving enterprise revenue and GTM strategy at Google, Meta, and 
 Twitter. Heavy AI user long before it was a job requirement. 
 Now building in the open.
+
+Human-led AI means keeping human judgment, accountability, and agency in
+the lead. AI can help organize context, surface tensions, pressure-test
+assumptions, and design better next steps, but the person stays
+responsible for the frame, the trade-offs, and the decision.
 
 **Explore the catalog:** [Judgment Infrastructure for Human-Led AI](https://glichtenthal.github.io/agent-skills/)  
 **Start with the workflow:** [Guided judgment workflow](https://glichtenthal.github.io/agent-skills/start-here/)

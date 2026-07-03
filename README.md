@@ -42,14 +42,6 @@ Run one quick demo:
 - [The Quorum quick demo](https://github.com/glichtenthal/the-quorum/blob/main/examples/quick-demo.md)
 - [Test Drive quick demo](https://github.com/glichtenthal/test-drive/blob/main/examples/quick-demo.md)
 
-## Install
-
-- [Download The Briefing Room](https://github.com/glichtenthal/briefing-room/releases/download/v1.1/briefing-room.skill)
-- [Download Ground Truth](https://github.com/glichtenthal/ground-truth/releases/download/v1.1/ground-truth.skill)
-- [Download The Quorum](https://github.com/glichtenthal/the-quorum/releases/download/v1.1/the-quorum.skill)
-- [Download Test Drive](https://github.com/glichtenthal/test-drive/releases/download/v1.5/test-drive.skill)
-- [Browse the full catalog](https://glichtenthal.github.io/agent-skills/)
-
 ## Core Skills
 
 **[briefing-room](https://github.com/glichtenthal/briefing-room)**:
@@ -72,6 +64,14 @@ connector path, approval gate, and learning loop.
 
 Each repository includes Claude installation instructions and Codex
 installation instructions.
+
+## Install
+
+- [Download The Briefing Room](https://github.com/glichtenthal/briefing-room/releases/download/v1.1/briefing-room.skill)
+- [Download Ground Truth](https://github.com/glichtenthal/ground-truth/releases/download/v1.1/ground-truth.skill)
+- [Download The Quorum](https://github.com/glichtenthal/the-quorum/releases/download/v1.1/the-quorum.skill)
+- [Download Test Drive](https://github.com/glichtenthal/test-drive/releases/download/v1.5/test-drive.skill)
+- [Browse the full catalog](https://glichtenthal.github.io/agent-skills/)
 
 ## Applied Judgment Systems
 

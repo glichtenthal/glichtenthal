@@ -25,23 +25,12 @@ These are portable behavioral systems for agents, not one-off prompts. The core 
 | A consequential decision with real trade-offs | [The Quorum](https://github.com/glichtenthal/the-quorum) |
 | An idea, claim, or decision that needs a small test before commitment | [Test Drive](https://github.com/glichtenthal/test-drive) |
 
-## Learn more
+## Core Resources
 
 - [One scenario across all four skills](https://glichtenthal.github.io/agent-skills/demo/)
 - [Practical use cases](https://glichtenthal.github.io/agent-skills/use-cases/)
 - [Awesome Judgment Infrastructure](https://github.com/glichtenthal/awesome-judgment-infrastructure)
 - [Why judgment infrastructure matters](https://glichtenthal.github.io/agent-skills/manifesto/)
-
-## Applied Judgment Systems
-
-**[Media, Tech & AI Executive Recruiter GPT](https://chatgpt.com/g/g-69c612c858188191a9d6d98fddd5b5b6-media-tech-ai-executive-recruiter)**:
-A custom GPT for recruiter-style coaching across media, technology,
-ad-tech, and AI business-side roles.
-It applies the same judgment-first pattern to job search: sharpen the
-positioning, pressure-test the materials, add recruiter perspective,
-prepare for consequential conversations, and evaluate trade-offs before acting.
-
-- [Repository](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt)
 
 ## Try the loop
 
@@ -60,7 +49,7 @@ Run one quick demo:
 - [Download Test Drive](https://github.com/glichtenthal/test-drive/releases/download/v1.5/test-drive.skill)
 - [Browse the full catalog](https://glichtenthal.github.io/agent-skills/)
 
-## What's here
+## Core Skills
 
 **[briefing-room](https://github.com/glichtenthal/briefing-room)**:
 Turns messy context into a structured brief a human can think with.
@@ -82,6 +71,17 @@ connector path, approval gate, and learning loop.
 
 Each repository includes Claude installation instructions and Codex
 installation instructions.
+
+## Applied Judgment Systems
+
+**[Media, Tech & AI Executive Recruiter GPT](https://chatgpt.com/g/g-69c612c858188191a9d6d98fddd5b5b6-media-tech-ai-executive-recruiter)**:
+A custom GPT for recruiter-style coaching across media, technology,
+ad-tech, and AI business-side roles.
+It applies the same judgment-first pattern to job search: sharpen the
+positioning, pressure-test the materials, add recruiter perspective,
+prepare for consequential conversations, and evaluate trade-offs before acting.
+
+- [Repository](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt)
 
 ## Connect
 

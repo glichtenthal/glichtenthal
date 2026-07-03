@@ -11,8 +11,9 @@ the lead. AI can help organize context, surface tensions, pressure-test
 assumptions, and design better next steps, but the person stays
 responsible for the frame, the trade-offs, and the decision.
 
-**Explore the catalog:** [Judgment Infrastructure for Human-Led AI](https://glichtenthal.github.io/agent-skills/)  
-**Start with the workflow:** [Guided judgment workflow](https://glichtenthal.github.io/agent-skills/start-here/)
+**Explore the catalog:** [Judgment Infrastructure for Human-Led AI](https://glichtenthal.github.io/agent-skills/)<br>
+**Start with the workflow:** [Guided judgment workflow](https://glichtenthal.github.io/agent-skills/start-here/)<br>
+**See applied systems:** [Media, Tech & AI Executive Recruiter GPT](#applied-judgment-systems)
 
 These are portable behavioral systems for agents, not one-off prompts. The core skill bundle is focused on judgment infrastructure for human-led AI work: organize messy context, pressure-test the thinking, deliberate consequential decisions, and turn ideas, claims, and decisions into evidence-seeking action.
 

@@ -83,7 +83,3 @@ positioning, pressure-test the materials, add recruiter perspective,
 prepare for consequential conversations, and evaluate trade-offs before acting.
 
 - [Repository](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt)
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/greglichtenthal)

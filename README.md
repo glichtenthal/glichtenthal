@@ -15,7 +15,7 @@ responsible for the frame, the trade-offs, and the decision.
 **Start with the workflow:** [Guided judgment workflow](https://glichtenthal.github.io/agent-skills/start-here/)<br>
 **See applied systems:** [Media, Tech & AI Executive Recruiter GPT](#applied-judgment-systems)
 
-These are portable behavioral systems for agents, not one-off prompts. The core skill bundle is focused on judgment infrastructure for human-led AI work: organize messy context, pressure-test the thinking, deliberate consequential decisions, and turn ideas, claims, and decisions into evidence-seeking action.
+The core skill bundle follows a simple loop: brief the context, critique the thinking, deliberate the decision, and test before trusting.
 
 ## Start here
 

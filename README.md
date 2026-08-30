@@ -21,10 +21,10 @@ New to this? [Start Here](https://glichtenthal.github.io/agent-skills/start-here
 
 The four skills follow a loop: brief the context, critique the thinking, weigh the trade-offs, test before trusting. Each works alone, and each repo includes install instructions for Claude and Codex.
 
-- [The Briefing Room v1.2](https://github.com/glichtenthal/briefing-room/releases/download/v1.2/briefing-room.skill)
+- [The Briefing Room v1.2.1](https://github.com/glichtenthal/briefing-room/releases/download/v1.2.1/briefing-room.skill)
 - [Ground Truth v1.2](https://github.com/glichtenthal/ground-truth/releases/download/v1.2/ground-truth.skill)
-- [The Quorum v1.3](https://github.com/glichtenthal/the-quorum/releases/download/v1.3/the-quorum.skill)
-- [Test Drive v1.6](https://github.com/glichtenthal/test-drive/releases/download/v1.6/test-drive.skill)
+- [The Quorum v1.4.1](https://github.com/glichtenthal/the-quorum/releases/download/v1.4.1/the-quorum.skill)
+- [Test Drive v1.6.1](https://github.com/glichtenthal/test-drive/releases/download/v1.6.1/test-drive.skill)
 
 ## Applied Judgment Systems
 

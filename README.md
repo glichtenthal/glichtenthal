@@ -1,6 +1,6 @@
 # Greg Lichtenthal
 
-I build portable AI skills and applied systems that help people think through hard problems while keeping the decision with the person. Four skills are published here, and they install in both Claude and Codex.
+I build portable AI skills and applied systems that help people think through hard problems while keeping the decision with the person. The four core skills form a judgment loop, and Building Partner carries the same principles into AI-assisted implementation.
 
 20+ years driving enterprise revenue and GTM strategy at Google, Meta, and Twitter. Heavy AI user long before it was a job requirement. Now building in the open.
 
@@ -28,4 +28,8 @@ The four skills follow a loop: brief the context, critique the thinking, weigh t
 
 ## Applied Judgment Systems
 
-[Media, Tech & AI Executive Recruiter GPT](https://chatgpt.com/g/g-69c612c858188191a9d6d98fddd5b5b6-media-tech-ai-executive-recruiter): a custom GPT for recruiter-style coaching across media, technology, ad-tech, and AI business-side roles. It applies the same judgment-first pattern to job search: pressure-test the materials, add recruiter perspective, prepare for consequential conversations, and evaluate trade-offs before acting.
+Applied Judgment Systems carry human-led judgment into a particular domain or stage of work. Some are portable skills, while others are complete applications.
+
+**[Building Partner](https://github.com/glichtenthal/building-partner)** is a portable operating skill for planning and building apps, prototypes, automations, integrations, and other technical workflows. Use it independently whenever AI is helping you build something, or after the judgment loop to carry clarified context, tested assumptions, and accepted decisions into implementation with visible trade-offs, explicit approvals, and verification against the real use case. [Install v1.0.0](https://github.com/glichtenthal/building-partner/releases/download/v1.0.0/building-partner.skill).
+
+**[Media, Tech & AI Executive Recruiter GPT](https://chatgpt.com/g/g-69c612c858188191a9d6d98fddd5b5b6-media-tech-ai-executive-recruiter)** is a domain-specific application of the same principles for recruiter-style coaching across media, technology, ad-tech, and AI business-side roles.

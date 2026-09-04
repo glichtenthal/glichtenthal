@@ -1,6 +1,6 @@
 # Greg Lichtenthal
 
-I build portable AI skills and applied systems that help people think through hard problems while keeping the decision with the person. The four core skills form a judgment loop, and Building Partner carries the same principles into AI-assisted implementation.
+I build portable AI skills and applied systems that help people think through hard problems while keeping the decision with the person. The four core skills form a judgment loop, and AI Project Steward carries the same principles into AI-assisted implementation.
 
 20+ years driving enterprise revenue and GTM strategy at Google, Meta, and Twitter. Heavy AI user long before it was a job requirement. Now building in the open.
 
@@ -30,6 +30,6 @@ The four skills follow a loop: brief the context, critique the thinking, weigh t
 
 Applied Judgment Systems carry human-led judgment into a particular domain or stage of work. Some are portable skills, while others are complete applications.
 
-**[Building Partner](https://github.com/glichtenthal/building-partner)** is a portable operating skill for planning and building apps, prototypes, automations, integrations, and other technical workflows. Use it independently whenever AI is helping you build something, or after the judgment loop to carry clarified context, tested assumptions, and accepted decisions into implementation with visible trade-offs, explicit approvals, and verification against the real use case. [Install v1.0.0](https://github.com/glichtenthal/building-partner/releases/download/v1.0.0/building-partner.skill).
+**[AI Project Steward](https://github.com/glichtenthal/ai-project-steward)** is a portable operating skill for stronger human–AI collaboration across the whole build. Use it independently whenever AI is helping you build an app, prototype, automation, integration, deployment, or other technical workflow. It can also follow the judgment loop, carrying clarified context, tested assumptions, and accepted decisions into implementation with visible choices, realistic guidance, clear approval boundaries, recorded decisions, and verified results. [Review the latest release](https://github.com/glichtenthal/ai-project-steward/releases/latest).
 
 **[Media, Tech & AI Executive Recruiter GPT](https://chatgpt.com/g/g-69c612c858188191a9d6d98fddd5b5b6-media-tech-ai-executive-recruiter)** is a domain-specific application of the same principles for recruiter-style coaching across media, technology, ad-tech, and AI business-side roles.

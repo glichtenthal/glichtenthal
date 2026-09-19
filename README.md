@@ -34,9 +34,9 @@ These skills and applications bring human-led judgment into a specific kind of w
 - **[Product Design Director](https://github.com/glichtenthal/agent-skills/tree/main/applied-judgment-systems/gtm-product-experience/skills/product-design-director)** defines the product experience, workflows, interaction design, and visual direction, then critiques the rendered result.
 - **[Production Frontend Engineer](https://github.com/glichtenthal/agent-skills/tree/main/applied-judgment-systems/gtm-product-experience/skills/production-frontend-engineer)** implements the interface and checks its behavior, visual fidelity, and technical readiness.
 
-Install all three for the combined workflow; use the roles each task needs. Steward also works independently for apps, automations, integrations, and other technical builds.
+Use any of the three independently, or combine them for a coordinated workflow. Steward also supports apps, automations, integrations, and other technical builds.
 
-[Install the product development skills](https://github.com/glichtenthal/agent-skills/tree/main/applied-judgment-systems)
+[Explore the product development skills](https://glichtenthal.github.io/agent-skills/product-development/) · [Installation instructions](https://github.com/glichtenthal/agent-skills/tree/main/applied-judgment-systems)
 
 ### Career coaching
 

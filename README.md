@@ -40,4 +40,4 @@ Use any of the three independently, or combine them for a coordinated workflow. 
 
 ### Career coaching
 
-**Media, Tech & AI Executive Recruiter GPT** provides recruiter-style coaching for media, technology, ad-tech, and AI business-side roles. [Open GPT](https://chatgpt.com/g/g-69c612c858188191a9d6d98fddd5b5b6-media-tech-ai-executive-recruiter).
+**[Media, Tech & AI Executive Recruiter](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt)** applies recruiter-style judgment to business-side career decisions across media, technology, ad-tech, and AI: positioning, resumes, LinkedIn, interviews, offers, and search strategy. Originally launched as a public custom GPT; the current plugin is private at version **0.67.0**. [Product history, availability, and testing](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt#product-history-and-availability).

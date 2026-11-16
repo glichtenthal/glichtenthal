@@ -1,10 +1,22 @@
 # Greg Lichtenthal
 
-I build portable AI skills and applied systems that help people think through hard problems while keeping the decision with the person. Four core skills help you work through a judgment loop. Three complementary skills carry that work into product definition, design, and implementation.
+AI gives people new ways to bring their ideas to life and get more done. I build tools that help them think clearly and stay in control of what they create.
 
 20+ years driving enterprise revenue and GTM strategy at Google, Meta, and Twitter. Heavy AI user long before it was a job requirement. Now building in the open.
 
-Human-led means AI can organize the context and push back on the reasoning, but the person makes the decision.
+## Judgment Infrastructure
+
+Four portable skills help you organize context, challenge ideas, weigh decisions, and test assumptions. Use each on its own or combine them when the work calls for it. AI can help clarify the thinking, but the person makes the decision.
+
+[Explore Judgment Infrastructure](https://glichtenthal.github.io/agent-skills/) · [Install the four skills](https://github.com/glichtenthal/agent-skills#install-the-four-core-skills-for-codex)
+
+## AI Project Steward
+
+Bring your ideas to life with AI, while your judgment shapes what gets built. AI Project Steward helps you navigate consequential technical decisions, keep accepted choices available across sessions, and verify that the result works as intended.
+
+Use it for apps, prototypes, automations, and integrations, independently or alongside the judgment skills.
+
+[Explore AI Project Steward](https://github.com/glichtenthal/ai-project-steward)
 
 ## Start here
 
@@ -14,15 +26,9 @@ Human-led means AI can organize the context and push back on the reasoning, but 
 | A claim, plan, draft, or idea that needs honest critique | [Ground Truth](https://glichtenthal.github.io/agent-skills/ground-truth/) |
 | A consequential decision with real trade-offs | [The Quorum](https://glichtenthal.github.io/agent-skills/the-quorum/) |
 | An idea, claim, or decision that needs a small test before commitment | [Test Drive](https://glichtenthal.github.io/agent-skills/test-drive/) |
-| An app, prototype, or product experience to build | [Product development skills](#product-development) |
+| An app, prototype, automation, or integration to build | [AI Project Steward](https://github.com/glichtenthal/ai-project-steward) |
 
-New to this? [Start Here](https://glichtenthal.github.io/agent-skills/start-here/) has copy/paste prompts for the four core skills and shows how they work as a loop. Full docs, demos, and worked examples: [Judgment Infrastructure for Human-Led AI](https://glichtenthal.github.io/agent-skills/).
-
-## Install the four core skills
-
-The four skills follow a loop: brief the context, critique the thinking, weigh the trade-offs, test before trusting. Each works alone.
-
-[Install instructions and releases](https://github.com/glichtenthal/agent-skills#install-the-four-core-skills-for-codex) cover The Briefing Room, Ground Truth, The Quorum, and Test Drive.
+New to the four skills? [Start Here](https://glichtenthal.github.io/agent-skills/start-here/) has copy/paste prompts and shows how they can work together.
 
 ## Applied Judgment Systems
 
@@ -30,11 +36,10 @@ These skills and applications bring human-led judgment into a specific kind of w
 
 ### Product development
 
-- **[AI Project Steward](https://github.com/glichtenthal/ai-project-steward)** keeps decisions, approvals, and project history clear throughout an AI-assisted build, and checks the result against what was agreed.
 - **[Product Design Director](https://github.com/glichtenthal/agent-skills/tree/main/applied-judgment-systems/gtm-product-experience/skills/product-design-director)** defines the product experience, workflows, interaction design, and visual direction, then critiques the rendered result.
 - **[Production Frontend Engineer](https://github.com/glichtenthal/agent-skills/tree/main/applied-judgment-systems/gtm-product-experience/skills/production-frontend-engineer)** implements the interface and checks its behavior, visual fidelity, and technical readiness.
 
-Use any of the three independently, or combine them for a coordinated workflow. Steward also supports apps, automations, integrations, and other technical builds.
+Use either independently, or combine them with AI Project Steward for a coordinated workflow.
 
 [Explore the product development skills](https://glichtenthal.github.io/agent-skills/product-development/) · [Installation instructions](https://github.com/glichtenthal/agent-skills/tree/main/applied-judgment-systems)
 

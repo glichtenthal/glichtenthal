@@ -55,4 +55,4 @@ Use either independently, or combine them with AI Project Steward for a coordina
 
 ### Career coaching case study
 
-**[Media, Tech & AI Executive Recruiter](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt)** applies recruiter-style judgment to business-side career decisions across media, technology, ad-tech, and AI: positioning, resumes, LinkedIn, interviews, offers, and search strategy. Originally launched as a public custom GPT; the current plugin is private at version **0.67.0**. [Product history, availability, and testing](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt#product-history-and-availability).
+**[Media, Tech & AI Executive Recruiter](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt)** applies recruiter-style judgment to business-side career decisions across media, technology, ad-tech, and AI: positioning, resumes, LinkedIn, interviews, offers, and search strategy. Originally launched as a public custom GPT. [Product history and availability](https://github.com/glichtenthal/media-tech-ai-executive-recruiter-gpt#product-history-and-availability).

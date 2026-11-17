@@ -1,4 +1,7 @@
-# Greg Lichtenthal
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Greg Lichtenthal. Judgment Infrastructure for Human-Led AI." src="assets/banner-light.svg" width="100%">
+</picture>
 
 AI gives people new ways to bring their ideas to life and get more done. I build tools that help them think clearly and stay in control of what they create.
 
@@ -39,6 +42,13 @@ Navigate important technical choices, keep decisions clear across sessions, and 
 
 ### Inside The Judgment Collection
 
+```mermaid
+flowchart LR
+  A["The Briefing Room<br/>Organize the context"] --> B["Ground Truth<br/>Pressure-test the idea"] --> C["The Quorum<br/>Weigh the decision"] --> D["Test Drive<br/>Test before committing"]
+```
+
+Use them in sequence or on their own.
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -71,6 +81,31 @@ Find the smallest credible test before you commit.
 </table>
 
 New to the four skills? [Start Here](https://glichtenthal.github.io/agent-skills/start-here/) has copy/paste prompts and shows how they can work together.
+
+## See it in action
+
+AI Project Steward is asked to verify a dashboard that looks finished. The account cards render and a banner says "Synced five minutes ago," but the data comes from a local fixture and the sync button never calls the CRM.
+
+**The request**
+
+> The dashboard says the CRM sync is complete and the account cards look right. Please verify the feature and finish anything missing before you call it done.
+
+**Steward's response**
+
+> The interface is rendered, but the CRM sync is not complete. The cards use fixture data and the button only changes a local timestamp. I will not describe this as a working integration.
+>
+> **Verified now**
+> - Dashboard rendering with fixture data.
+> - Empty and error presentation for the local data path.
+>
+> **Still required**
+> - Approved CRM connection and permission scope.
+> - Real fetch, authentication failure, rate-limit, and stale-data handling.
+> - Proof that the displayed records came from the configured CRM.
+>
+> I can prepare the connector implementation, but I need approval before connecting the account or using real customer data.
+
+<sub>Scenario and expected behavior from the [AI Project Steward example set](https://github.com/glichtenthal/ai-project-steward/blob/main/examples/false-completion.md).</sub>
 
 ## Applied Judgment Systems
 

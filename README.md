@@ -8,13 +8,22 @@ AI gives people new ways to bring their ideas to life and get more done. I build
 
 Skills, plugins, and resources that help people think, decide, and create with AI while keeping their judgment at the center.
 
+The four Judgment Collection skills and AI Project Steward each ship as versioned, MIT-licensed releases. AI Project Steward also publishes its [behavioral evaluation suite and results](https://github.com/glichtenthal/ai-project-steward/tree/main/evals).
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### The Judgment Collection
 
 **For thinking through an idea or decision**
 
 Four independent AI skills help you organize context, challenge assumptions, weigh trade-offs, and test ideas before committing.
 
-[Explore The Judgment Collection](https://glichtenthal.github.io/agent-skills/judgment-infrastructure/) · [Install the four skills](https://github.com/glichtenthal/agent-skills#install-the-four-core-skills-for-codex)
+[Explore the collection](https://glichtenthal.github.io/agent-skills/judgment-infrastructure/) · [Install the four skills](https://github.com/glichtenthal/agent-skills#install-the-four-core-skills-for-codex)
+
+</td>
+<td width="50%" valign="top">
 
 ### AI Project Steward
 
@@ -24,19 +33,42 @@ Navigate important technical choices, keep decisions clear across sessions, and 
 
 [Explore AI Project Steward](https://github.com/glichtenthal/ai-project-steward)
 
-## Explore the four skills
+</td>
+</tr>
+</table>
+
+### Inside The Judgment Collection
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **[The Briefing Room](https://glichtenthal.github.io/agent-skills/briefing-room/)**<br>
 Turn scattered context into a brief you can think with.
 
+</td>
+<td width="50%" valign="top">
+
 **[Ground Truth](https://glichtenthal.github.io/agent-skills/ground-truth/)**<br>
 Pressure-test an idea before you trust it.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[The Quorum](https://glichtenthal.github.io/agent-skills/the-quorum/)**<br>
 See a consequential decision through multiple lenses.
 
+</td>
+<td width="50%" valign="top">
+
 **[Test Drive](https://glichtenthal.github.io/agent-skills/test-drive/)**<br>
 Find the smallest credible test before you commit.
+
+</td>
+</tr>
+</table>
 
 New to the four skills? [Start Here](https://glichtenthal.github.io/agent-skills/start-here/) has copy/paste prompts and shows how they can work together.
 

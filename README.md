@@ -4,29 +4,39 @@ AI gives people new ways to bring their ideas to life and get more done. I build
 
 20+ years driving enterprise revenue and GTM strategy at Google, Meta, and Twitter. Heavy AI user long before it was a job requirement. Now building in the open.
 
-## Judgment Infrastructure
+## Judgment Infrastructure for Human-Led AI
 
-Four portable skills help you organize context, challenge ideas, weigh decisions, and test assumptions. Use each on its own or combine them when the work calls for it. AI can help clarify the thinking, but the person makes the decision.
+Skills, plugins, and resources that help people think, decide, and create with AI while keeping their judgment at the center.
 
-[Explore Judgment Infrastructure](https://glichtenthal.github.io/agent-skills/) · [Install the four skills](https://github.com/glichtenthal/agent-skills#install-the-four-core-skills-for-codex)
+### The Judgment Collection
 
-## AI Project Steward
+**For thinking through an idea or decision**
 
-Bring your ideas to life with AI, while your judgment shapes what gets built. AI Project Steward helps you navigate consequential technical decisions, keep accepted choices available across sessions, and verify that the result works as intended.
+Four independent AI skills help you organize context, challenge assumptions, weigh trade-offs, and test ideas before committing.
 
-Use it for apps, prototypes, automations, and integrations, independently or alongside the judgment skills.
+[Explore The Judgment Collection](https://glichtenthal.github.io/agent-skills/judgment-infrastructure/) · [Install the four skills](https://github.com/glichtenthal/agent-skills#install-the-four-core-skills-for-codex)
+
+### AI Project Steward
+
+**For bringing an idea to life with AI**
+
+Navigate important technical choices, keep decisions clear across sessions, and check that what you build works as intended.
 
 [Explore AI Project Steward](https://github.com/glichtenthal/ai-project-steward)
 
-## Start here
+## Explore the four skills
 
-| If you have... | Use... |
-|---|---|
-| Messy notes, transcripts, research, or context | [The Briefing Room](https://glichtenthal.github.io/agent-skills/briefing-room/) |
-| A claim, plan, draft, or idea that needs honest critique | [Ground Truth](https://glichtenthal.github.io/agent-skills/ground-truth/) |
-| A consequential decision with real trade-offs | [The Quorum](https://glichtenthal.github.io/agent-skills/the-quorum/) |
-| An idea, claim, or decision that needs a small test before commitment | [Test Drive](https://glichtenthal.github.io/agent-skills/test-drive/) |
-| An app, prototype, automation, or integration to build | [AI Project Steward](https://github.com/glichtenthal/ai-project-steward) |
+**[The Briefing Room](https://glichtenthal.github.io/agent-skills/briefing-room/)**<br>
+Turn scattered context into a brief you can think with.
+
+**[Ground Truth](https://glichtenthal.github.io/agent-skills/ground-truth/)**<br>
+Pressure-test an idea before you trust it.
+
+**[The Quorum](https://glichtenthal.github.io/agent-skills/the-quorum/)**<br>
+See a consequential decision through multiple lenses.
+
+**[Test Drive](https://glichtenthal.github.io/agent-skills/test-drive/)**<br>
+Find the smallest credible test before you commit.
 
 New to the four skills? [Start Here](https://glichtenthal.github.io/agent-skills/start-here/) has copy/paste prompts and shows how they can work together.
 

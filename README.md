@@ -44,7 +44,7 @@ Navigate important technical choices, keep decisions clear across sessions, and 
 
 ```mermaid
 flowchart LR
-  A["The Briefing Room<br/>Organize the context"] --> B["Ground Truth<br/>Pressure-test the idea"] --> C["The Quorum<br/>Weigh the decision"] --> D["Test Drive<br/>Test before committing"]
+  A["Briefing Room"] --> B["Ground Truth"] --> C["The Quorum"] --> D["Test Drive"]
 ```
 
 Use them in sequence or on their own.

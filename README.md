@@ -9,7 +9,7 @@ I build tools that help people think clearly and stay in control of what they cr
 
 ## Tools for thinking and building with AI
 
-The four Judgment Collection skills and AI Project Steward each ship as versioned, MIT-licensed releases. AI Project Steward also publishes its [behavioral evaluation suite and results](https://github.com/glichtenthal/ai-project-steward/tree/main/evals).
+**New here?** Start with the [Judgment Collection](https://glichtenthal.github.io/agent-skills/start-here/) for a question or decision, or [AI Project Steward](https://github.com/glichtenthal/ai-project-steward) when you're building something.
 
 <table>
 <tr>
@@ -21,7 +21,9 @@ The four Judgment Collection skills and AI Project Steward each ship as versione
 
 Four independent AI skills help you organize context, challenge assumptions, weigh trade-offs, and test ideas before committing.
 
-[Explore the collection](https://glichtenthal.github.io/agent-skills/judgment-infrastructure/) · [Install the four skills](https://github.com/glichtenthal/agent-skills#install-the-four-core-skills-for-codex)
+For Codex, Claude, and ChatGPT. [Setup instructions](https://github.com/glichtenthal/agent-skills#install-the-four-core-skills-for-codex)
+
+[Explore the collection](https://glichtenthal.github.io/agent-skills/judgment-infrastructure/)
 
 </td>
 <td width="50%" valign="top">
@@ -32,11 +34,15 @@ Four independent AI skills help you organize context, challenge assumptions, wei
 
 Navigate important technical choices, keep decisions clear across sessions, and check that what you build works as intended.
 
+Stable releases for Codex and Claude Code. [Setup and platform details](https://github.com/glichtenthal/ai-project-steward#install)
+
 [Explore AI Project Steward](https://github.com/glichtenthal/ai-project-steward)
 
 </td>
 </tr>
 </table>
+
+The four Judgment Collection skills and AI Project Steward each ship as versioned, MIT-licensed releases. AI Project Steward also publishes its [behavioral evaluation suite and results](https://github.com/glichtenthal/ai-project-steward/tree/main/evals).
 
 ### Inside The Judgment Collection
 
@@ -83,13 +89,9 @@ In this scenario, a dashboard looks finished, but its data comes from a local fi
 
 > The dashboard says the CRM sync is complete and the account cards look right. Please verify the feature and finish anything missing before you call it done.
 
-**Expected response (excerpt)**
+**Expected behavior**
 
-> The interface is rendered, but the CRM sync is not complete. The cards use fixture data and the button only changes a local timestamp. I will not describe this as a working integration.
->
-> ...
->
-> I can prepare the connector implementation, but I need approval before connecting the account or using real customer data.
+Steward identifies what has been verified, explains that the CRM integration isn't working, and asks for approval before connecting the account or using real customer data.
 
 <sub>Scenario and expected behavior from the [AI Project Steward example set](https://github.com/glichtenthal/ai-project-steward/blob/main/examples/false-completion.md).</sub>
 
